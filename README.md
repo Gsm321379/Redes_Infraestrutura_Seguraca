@@ -1,2 +1,2 @@
 # Redes_Infraestrutura_Seguraca
-Internet, protocolos e segurança de sistemas da informatica
+Internet, protocolos e segurança de sistemas de informação
